@@ -1,44 +1,44 @@
-# News Application – React Final Project
+# APLICATIE FINALA PROIECT IT SCHOOL STIRI
 
-## About the Project
+Despre proiect
 
-This application represents the final project developed as part of the Web Development React Course at ITSchool Romania.
+Această aplicație reprezintă proiectul final dezvoltat în cadrul cursului de Web Development React de la ITSchool România.
 
-The project is a News Application built with React, which displays news articles from multiple categories such as Sports, Science, Environment, Business, and more. The application fetches data from The Guardian API and presents it in a clean and intuitive interface.
+Proiectul este o aplicație de știri construită cu React, care afișează articole din mai multe categorii, precum Sport, Știință, Mediu, Business și altele. Aplicația preia datele din The Guardian API și le prezintă într-o interfață curată și intuitivă.
 
-The homepage displays a list of news articles, while each category has its own dedicated page. To enhance performance and user experience, pagination is implemented so that articles are loaded and displayed in batches rather than all at once.
+Pagina principală afișează o listă de articole, iar fiecare categorie are propria pagină dedicată. Pentru a îmbunătăți performanța și experiența utilizatorului, este implementată paginarea, astfel încât articolele să fie încărcate și afișate în loturi, nu toate deodată.
 
-State management is handled using the React Context API, allowing data to be shared efficiently across components. Users can view articles by category, access a detailed page for each news item, and manage a list of favorite articles.
+Gestionarea stării este realizată folosind React Context API, permițând partajarea eficientă a datelor între componente. Utilizatorii pot vizualiza articolele pe categorii, pot accesa o pagină de detalii pentru fiecare știre și pot gestiona o listă de articole favorite.
 
-Each news card includes a Favorites button that allows users to add or remove articles from their favorites list. All saved articles are displayed on a dedicated Favorites page.
+Fiecare card de știre include un buton de Favorite care permite adăugarea sau eliminarea articolelor din lista de favorite. Toate articolele salvate sunt afișate pe o pagină dedicată de Favorite.
 
-The application layout includes a header with the ITSchool logo and navigation links (Football, Science, Environment, Business, Favorites), as well as a footer containing information about ITSchool Romania.
+Structura aplicației include un header cu logo-ul ITSchool și linkuri de navigare (Fotbal, Știință, Mediu, Business, Favorite), precum și un footer care conține informații despre ITSchool România.
 
-## Features
+Funcționalități
 
-Fetches news data from The Guardian API
+Preluarea știrilor din The Guardian API
 
-Browse news by category
+Navigarea știrilor pe categorii
 
-Pagination for improved performance
+Paginare pentru performanță îmbunătățită
 
-News details page for individual articles
+Pagină de detalii pentru fiecare articol
 
-Add and remove news from Favorites
+Adăugarea și eliminarea știrilor din Favorite
 
-Global state management using React Context API
+Gestionarea globală a stării folosind React Context API
 
-Responsive UI using Bootstrap
+Interfață responsive realizată cu Bootstrap
 
-## Tech Stack
+Stack tehnologic
 
 Build Tool: Vite
 
-Language: JavaScript
+Limbaj: JavaScript
 
-Framework / Library: React 19
+Framework / Bibliotecă: React 19
 
-Styling: Bootstrap
+Stilizare: Bootstrap
 
 State Management: React Context API
 
