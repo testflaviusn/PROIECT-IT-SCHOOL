@@ -103,13 +103,13 @@ export default function Home() {
 
             <section className="science my-5">
                 <Container>
-                    <h1 className="mb-5 pt-3">Science</h1>
+                    <h1 className="mb-5 pt-3">Politica</h1>
                     {/* instantiem componenta care ne listeaza card-urile cu stiri din categoria football */}
                     <NewsCardList newsList={adaptedScienceData} />
                     <p>
-                        Vezi toate stirile legate de stiinta in sectiunea{" "}
+                        Vezi toate stirile legate de stiinta in politica{" "}
                         <Link
-                            to={"/category/football"}
+                            to={"/category/politics"}
                             className="text-secondary"
                         >
                             Politics
@@ -120,13 +120,13 @@ export default function Home() {
 
             <section className="science my-5">
                 <Container>
-                    <h1 className="mb-5 pt-3">Environment</h1>
-                    {/* instantiem componenta care ne listeaza card-urile cu stiri din categoria football */}
+                    <h1 className="mb-5 pt-3">sport</h1>
+                    {/* instantiem componenta care ne listeaza card-urile cu stiri din categoria sport */}
                     <NewsCardList newsList={adaptedEnvironmentData} />
                     <p>
                         Vezi toate stirile legate de mediul inconjurator in sectiunea{" "}
                         <Link
-                            to={"/category/environment"}
+                            to={"/category/sport"}
                             className="text-secondary"
                         >
                             Sport
