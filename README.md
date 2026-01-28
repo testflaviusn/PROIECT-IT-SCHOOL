@@ -46,6 +46,4 @@ API: The Guardian API
 
 ## Author
 
-Marin Stefan Daniel
-Final Project – Web Development React Course
-ITSchool Romania
+FLAVIUS NOJA ALEXANDRU
