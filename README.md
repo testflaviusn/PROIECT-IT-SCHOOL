@@ -14,36 +14,6 @@ Fiecare card de știre include un buton de Favorite care permite adăugarea sau 
 
 Structura aplicației include un header cu logo-ul ITSchool și linkuri de navigare (Fotbal, Știință, Mediu, Business, Favorite), precum și un footer care conține informații despre ITSchool România.
 
-Funcționalități
 
-Preluarea știrilor din The Guardian API
 
-Navigarea știrilor pe categorii
 
-Paginare pentru performanță îmbunătățită
-
-Pagină de detalii pentru fiecare articol
-
-Adăugarea și eliminarea știrilor din Favorite
-
-Gestionarea globală a stării folosind React Context API
-
-Interfață responsive realizată cu Bootstrap
-
-Stack tehnologic
-
-Build Tool: Vite
-
-Limbaj: JavaScript
-
-Framework / Bibliotecă: React 19
-
-Stilizare: Bootstrap
-
-State Management: React Context API
-
-API: The Guardian API
-
-## Author
-
-FLAVIUS NOJA ALEXANDRU
